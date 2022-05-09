@@ -1,5 +1,5 @@
 {
-  "name": "react-native-module",
+  "name": "@comet-chat/react-native-module",
   "version": "0.1.0",
   "description": "Test",
   "main": "lib/commonjs/index",
